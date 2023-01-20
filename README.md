@@ -96,7 +96,7 @@ Para o exemplo, acima iremos retornar:
 }
 Os valores de entrada, x e y são obrigatórios e devem ser números.
 Tempo estimado: 6-8 minutos. Dificuldade: Fácil.
-8. Crie um programa que seja uma API de um contador de números. Esta API irá
+##8. Crie um programa que seja uma API de um contador de números. Esta API irá
 manter o número em sua memória, e esta irá iniciar com o valor 0 (zero).
 Para o programa teremos as seguinte chamadas:
 ● POST /contador
